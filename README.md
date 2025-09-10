@@ -2,6 +2,6 @@
 
 ## 1. What are the most demanded skills for the top 3 most popular data roles?
 
-To find the most demanded skills for the top 3 most popular data roles. I filtered out these positions by which one were the most popular, and got the top 5 skills for these top 3 roles. This query highlight the most popular job titles and their top skills, showing which skills I should pay attention to depending on the role I'm targeting.
+To identify the most in-demand skills for the top three data roles, I filtered the positions based on their popularity and then extracted the five key skills for each role. This query highlights the most common job titles along with their top skills, making it clear which skills I should prioritize depending on the role I aim for.
 
-View my notebook with detailed steps here:
+You can view my notebook with the detailed steps here: [2_skill_demand.ipynb](File Python\py_with_lukebarousse\project_course\3_project\2_skill_demand.ipynb)
