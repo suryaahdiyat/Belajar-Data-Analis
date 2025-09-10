@@ -34,4 +34,5 @@ fig.tight_layout(h_pad=1)
 ```
 
 ### Result
-![Visualization of top skills for data roles](./File%20Python/py_with_lukebarousse/project_course/3_project/images/skill_demand_all_data_roles.png)
+
+![Visualization of top skills for data roles](.\File%20Python\py_with_lukebarousse\project_course\3_project\images\skill_demand_all_data_roles.png)
