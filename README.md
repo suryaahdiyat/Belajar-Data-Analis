@@ -139,8 +139,6 @@ For Data Analysts in Indonesia:
 
 ### Additional chart for Data Engineer and Data Scientist
 
-Data Engineer
 ![Trending Top Skills for Data Engineer in Indonesia](./File%20Python/py_with_lukebarousse/project_course/3_project/images/skill_trend_DE_ID.png)
 
-Data Scientist
 ![Trending Top Skills for Data Scientist in Indonesia](./File%20Python/py_with_lukebarousse/project_course/3_project/images/skill_trend_DS_ID.png)
